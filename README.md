@@ -6,5 +6,4 @@ Fillit does not consist of recoding Tetris, even if it’s still a variant of th
 
 The program must display the smallest square solution on the standard output. To identify each Tetriminos in the square solution, you will assign a capital letter (starting with ’A’) to each Tetriminos in the order they appear in the file. A file will contain 26 Tetriminos maximum. If the file contains at least one error, the program must display error on the standard output and exit properly.
 
-![alt text](Users/mac/Downloads/28257341-df022a54-6a7e-11e7-86aa-c8b7579d84a9.png
-)
+![alt text](https://github.com/KremenVal/Fillit/example.png)
